@@ -8,5 +8,5 @@
 
 echo 'hello world for ok yes';
 
-echo 'hello master';
+echo 'hello master 这是new分支上修改de ';
 
