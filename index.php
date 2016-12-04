@@ -6,4 +6,4 @@
  * Time: 下午7:17
  */
 
-echo 'index';
+echo 'index hello world new';
