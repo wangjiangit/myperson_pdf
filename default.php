@@ -8,4 +8,4 @@
 
 echo 'hello world for ok yes';
 
-echo 'hellow';
+echo 'hello';
